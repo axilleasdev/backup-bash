@@ -42,3 +42,5 @@ tar -czvf "$backupFileName" "${toBackup[@]}"
 mv "$backupFileName" "$destDir"
 
 echo "Backup completed successfully: $destDir/$backupFileName"
+
+## THATS ALL 
